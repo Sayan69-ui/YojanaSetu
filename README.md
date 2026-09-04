@@ -50,8 +50,8 @@ cd backend
 python -m pip install -r requirements.txt
 python main.py
 ```
-- API will run at: `http://localhost:8000`
-- Interactive Swagger Documentation: `http://localhost:8000/docs`
+- API will run at: ``
+- Interactive Swagger Documentation: ``
 
 ### 2. Start the Frontend Application (React + Vite)
 ```bash
@@ -59,7 +59,7 @@ cd frontend
 npm install
 npm run dev
 ```
-- Web Application will run at: `http://localhost:5173`
+- Web Application will run at: `https://sayan69-ui.github.io/YojanaSetu/`
 
 ---
 
