@@ -1,0 +1,902 @@
+{
+  "pm-kisan": {
+    "en": {
+      "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+      "what_is_it": "A Central Sector scheme providing income support of ₹6,000 per year to landholding farmer families across India, funded 100% by the Government of India.",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "who_can_benefit": "All small, marginal, and landholding farmer families who have cultivable land registered in their name.",
+      "conditions": "Must own cultivable landholding. Institutional landholders, income-tax payers, constitutional post holders, and serving/retired government officers (excluding Group D / MTS) are excluded.",
+      "benefits": [
+        "₹6,000 annual direct financial support transferred directly into bank accounts (DBT)",
+        "Paid in three equal four-monthly installments of ₹2,000 each (April-July, August-November, December-March)",
+        "Zero middlemen with 100% central government funding",
+        "Aadhaar-seeded bank account transfer"
+      ],
+      "documents": [
+        "Aadhaar Card (Mandatory with e-KYC)",
+        "Landholding Ownership Papers (Khasra-Khatauni / RoR)",
+        "Aadhaar-seeded Bank Account Passbook",
+        "Active Mobile Number linked with Aadhaar"
+      ],
+      "how_to_apply": "Register online under 'Farmer Corner' on the official portal (https://pmkisan.gov.in) or visit your nearest Common Service Centre (CSC) or local State Agriculture Office.",
+      "url": "https://pmkisan.gov.in",
+      "helpline": "155261 / 011-24300606 / 1800-115-526"
+    },
+    "hi": {
+      "name": "प्रधानमंत्री किसान सम्मान निधि (PM-KISAN)",
+      "what_is_it": "यह भारत सरकार की एक प्रमुख योजना है जिसके तहत देश के सभी पात्र भूमिधारक किसान परिवारों को प्रति वर्ष ₹6,000 की प्रत्यक्ष आर्थिक सहायता प्रदान की जाती है।",
+      "ministry": "कृषि एवं किसान कल्याण मंत्रालय",
+      "who_can_benefit": "सभी छोटे, सीमांत और भूमिधारक किसान परिवार जिनके नाम पर खेती योग्य भूमि दर्ज है।",
+      "conditions": "परिवार के नाम कृषि योग्य भूमि होनी चाहिए। संस्थागत भूमिधारक, आयकर दाता, संवैधानिक पदों पर रहे व्यक्ति और सरकारी कर्मचारी (ग्रुप डी को छोड़कर) इसके पात्र नहीं हैं।",
+      "benefits": [
+        "प्रति वर्ष ₹6,000 की वित्तीय सहायता सीधे बैंक खाते में (DBT)",
+        "₹2,000 की तीन समान किस्तों में भुगतान (प्रत्येक 4 माह में)",
+        "बिचौलियों से पूरी तरह मुक्त और 100% केंद्र सरकार द्वारा वित्तपोषित",
+        "आधार से जुड़े सक्रिय बैंक खाते में सीधा भुगतान"
+      ],
+      "documents": [
+        "आधार कार्ड (अनिवार्य e-KYC सहित)",
+        "कृषि भूमि के मालिकाना हक के दस्तावेज (खसरा-खतौनी)",
+        "आधार से लिंक बैंक पासबुक",
+        "आधार से लिंक सक्रिय मोबाइल नंबर"
+      ],
+      "how_to_apply": "पीएम-किसान पोर्टल (https://pmkisan.gov.in) के 'फार्मर कॉर्नर' पर जाकर ऑनलाइन आवेदन करें या नजदीकी सीएससी (CSC) अथवा कृषि विभाग कार्यालय में संपर्क करें।",
+      "url": "https://pmkisan.gov.in",
+      "helpline": "155261 / 011-24300606 / 1800-115-526"
+    },
+    "hinglish": {
+      "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+      "what_is_it": "Ye Central Government ki scheme hai jisme eligible kisan families ko saal me ₹6,000 ki financial help directly bank account me milti hai.",
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "who_can_benefit": "Wo sabhi small aur landholder kisan parivar jinke naam par cultivable agricultural land registered hai.",
+      "conditions": "Family ke naam par kheti ki zameen honi chahiye. Income tax pay karne wale, government employees (Group D chhodkar), aur institutional landholders isme eligible nahi hain.",
+      "benefits": [
+        "Saal me ₹6,000 direct bank account me transfer (DBT)",
+        "₹2,000 ki 3 installments har 4 mahine me milti hain",
+        "Zero middlemen aur 100% Central Government fund karti hai",
+        "Aadhaar-seeded bank account me payment aati hai"
+      ],
+      "documents": [
+        "Aadhaar Card (Mandatory e-KYC ke saath)",
+        "Kheti ki zameen ke kagazat (Khasra-Khatauni)",
+        "Bank Account Passbook (Aadhaar linked)",
+        "Active Mobile Number (OTP ke liye)"
+      ],
+      "how_to_apply": "Official portal (https://pmkisan.gov.in) ke 'Farmer Corner' par jaakar online register karein ya nearest CSC center par sampark karein.",
+      "url": "https://pmkisan.gov.in",
+      "helpline": "155261 / 011-24300606 / 1800-115-526"
+    },
+    "bn": {
+      "name": "প্রধানমন্ত্রী কিষাণ সম্মান নিধি (PM-KISAN)",
+      "what_is_it": "এটি ভারত সরকারের একটি ফ্ল্যাগশিপ প্রকল্প, যার অধীনে দেশের যোগ্য কৃষক পরিবারগুলিকে প্রতি বছর ₹৬,০০০ সরাসরি আর্থিক সহায়তা দেওয়া হয়।",
+      "ministry": "কৃষি ও কৃষক কল্যাণ মন্ত্রণালয়",
+      "who_can_benefit": "সমস্ত ক্ষুদ্র ও প্রান্তিক কৃষক পরিবার যাদের নিজস্ব চাষযোগ্য জমি রয়েছে।",
+      "conditions": "আবেদনকারীর নামে কৃষিজমি থাকতে হবে। আয়কর প্রদানকারী, সরকারি চাকুরিজীবী (গ্রুপ ডি ব্যতীত) এবং প্রাতিষ্ঠানিক জমির মালিকরা এই সুবিধার আওতাভুক্ত নন।",
+      "benefits": [
+        "প্রতি বছর ₹৬,০০০ সরাসরি ব্যাংক অ্যাকাউন্টে জমা (DBT)",
+        "প্রতি ৪ মাস অন্তর ₹২,০০০ করে তিনটি সমান কিস্তিতে প্রদান",
+        "কোনো মধ্যস্বত্বভোগী নেই, ১০০% কেন্দ্রীয় সরকার দ্বারা অর্থায়িত",
+        "আধারের সাথে যুক্ত ব্যাংক অ্যাকাউন্টে সরাসরি অর্থপ্রদান"
+      ],
+      "documents": [
+        "আধার কার্ড (বাধ্যতামূলক e-KYC সহ)",
+        "কৃষিজমির মালিকানার খতিয়ান / পরচা / খসড়া",
+        "আধারের সাথে যুক্ত ব্যাংক পাসবই",
+        "আধারের সাথে যুক্ত সক্রিয় মোবাইল নম্বর"
+      ],
+      "how_to_apply": "অফিসিয়াল পোর্টাল (https://pmkisan.gov.in)-এর 'Farmer Corner'-এ গিয়ে অনলাইনে আবেদন করুন অথবা নিকটবর্তী কমন সার্ভিস সেন্টারে (CSC) যোগাযোগ করুন।",
+      "url": "https://pmkisan.gov.in",
+      "helpline": "155261 / 011-24300606 / 1800-115-526"
+    }
+  },
+  "ayushman-bharat": {
+    "en": {
+      "name": "Ayushman Bharat (PM-JAY - Pradhan Mantri Jan Arogya Yojana)",
+      "what_is_it": "The world's largest government-funded health assurance scheme providing up to ₹5 lakh per family per year for cashless secondary and tertiary hospitalization.",
+      "ministry": "Ministry of Health & Family Welfare / National Health Authority (NHA)",
+      "who_can_benefit": "Bottom 40% vulnerable and poor families identified by SECC 2011 & NFSA ration cards, plus all senior citizens aged 70 and above regardless of income.",
+      "conditions": "Entitlement-based scheme. No restriction on family size, age, or gender. Pre-existing medical conditions are covered from day one.",
+      "benefits": [
+        "₹5,00,000 cashless health insurance cover per family per year",
+        "Covers over 1,949 medical and surgical procedures across empanelled public and private hospitals nationwide",
+        "Includes pre-hospitalization (3 days) and post-hospitalization (15 days) diagnostics and medicines",
+        "Completely paperless and cashless treatment across India"
+      ],
+      "documents": [
+        "Aadhaar Card or Ration Card (NFSA)",
+        "Ayushman Card / PMJAY Family ID",
+        "Active Mobile Number"
+      ],
+      "how_to_apply": "Check eligibility on https://beneficiary.nha.gov.in or https://pmjay.gov.in. If eligible, generate your free Ayushman Card at any empanelled hospital (Ayushman Mitra desk) or CSC center.",
+      "url": "https://pmjay.gov.in",
+      "helpline": "14555 / 1800-111-565"
+    },
+    "hi": {
+      "name": "आयुष्मान भारत - प्रधानमंत्री जन आरोग्य योजना (PM-JAY)",
+      "what_is_it": "यह दुनिया की सबसे बड़ी सरकारी स्वास्थ्य आश्वासन योजना है, जो पात्र परिवारों को माध्यमिक और तृतीयक स्तर के अस्पताल में भर्ती होने पर प्रति वर्ष ₹5 लाख तक का कैशलेस स्वास्थ्य सुरक्षा कवर देती है।",
+      "ministry": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय / राष्ट्रीय स्वास्थ्य प्राधिकरण (NHA)",
+      "who_can_benefit": "SECC 2011 और NFSA राशन कार्ड धारक गरीब परिवार तथा 70 वर्ष या उससे अधिक आयु के सभी वरिष्ठ नागरिक (आय की कोई सीमा नहीं)।",
+      "conditions": "परिवार के सदस्यों की संख्या, आयु या लिंग की कोई सीमा नहीं है। पहले से मौजूद सभी बीमारियों का इलाज पहले दिन से ही कवर होता है।",
+      "benefits": [
+        "प्रति परिवार प्रति वर्ष ₹5,00,000 तक का पूरी तरह मुफ्त (कैशलेस) इलाज",
+        "1,949 से अधिक सर्जिकल और मेडिकल उपचार देश भर के सूचीबद्ध सरकारी व निजी अस्पतालों में शामिल",
+        "अस्पताल में भर्ती होने से 3 दिन पहले और 15 दिन बाद तक की दवाएं और जांचें शामिल",
+        "पूरे भारत में पोर्टेबल और कैशलेस सुविधा"
+      ],
+      "documents": [
+        "आधार कार्ड या राशन कार्ड",
+        "आयुष्मान गोल्डन कार्ड / परिवार पहचान पत्र",
+        "मोबाइल नंबर"
+      ],
+      "how_to_apply": "वेबसाइट https://beneficiary.nha.gov.in पर जाकर पात्रता जांचें। पात्र होने पर किसी भी सूचीबद्ध अस्पताल के 'आयुष्मान मित्र' डेस्क या सीएससी (CSC) केंद्र पर जाकर आयुष्मान कार्ड बनवाएं।",
+      "url": "https://pmjay.gov.in",
+      "helpline": "14555 / 1800-111-565"
+    },
+    "hinglish": {
+      "name": "Ayushman Bharat (PM-JAY - Pradhan Mantri Jan Arogya Yojana)",
+      "what_is_it": "Ye duniya ki sabse badi government health assurance scheme hai jo eligible families ko hospital me treatment ke liye per family per year ₹5 Lakh tak ka cashless cover provide karti hai.",
+      "ministry": "Ministry of Health & Family Welfare / National Health Authority (NHA)",
+      "who_can_benefit": "SECC 2011 aur Ration Card ke zariye identified poor families, aur 70 saal ya usse zyada age ke sabhi senior citizens.",
+      "conditions": "Family size, age ya gender par koi restriction nahi hai. Pre-existing diseases day 1 se cover hoti hain.",
+      "benefits": [
+        "Per family per year ₹5,00,000 tak ka free cashless treatment",
+        "1,949 se zyada medical aur surgical procedures empanelled private aur government hospitals me covered hain",
+        "Hospital admit hone se 3 din pehle aur discharge ke 15 din baad tak ki medicines aur tests covered",
+        "Poore India me cashless aur paperless facility"
+      ],
+      "documents": [
+        "Aadhaar Card ya Ration Card",
+        "Ayushman Card / Family ID",
+        "Active Mobile Number"
+      ],
+      "how_to_apply": "Portal https://beneficiary.nha.gov.in par apna naam check karein. Eligible hone par nearest empanelled hospital me 'Ayushman Mitra' desk ya CSC center par Ayushman Card banwayen.",
+      "url": "https://pmjay.gov.in",
+      "helpline": "14555 / 1800-111-565"
+    },
+    "bn": {
+      "name": "আয়ুষ্মান ভারত - প্রধানমন্ত্রী জন আরোগ্য যোজনা (PM-JAY)",
+      "what_is_it": "এটি বিশ্বের বৃহত্তম সরকারি স্বাস্থ্য সুরক্ষা প্রকল্প, যার মাধ্যমে দরিদ্র ও সুবিধাবঞ্চিত পরিবারগুলিকে হাসপাতালে চিকিৎসার জন্য প্রতি বছর পরিবার পিছু ₹৫ লক্ষ টাকা পর্যন্ত সম্পূর্ণ ক্যাশলেস স্বাস্থ্য বীমা প্রদান করা হয়।",
+      "ministry": "স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয় / ন্যাশনাল হেলথ অথরিটি (NHA)",
+      "who_can_benefit": "SECC ২০১১ তালিকাভুক্ত এবং খাদ্য সুরক্ষা আইনের (NFSA) রেশন কার্ডধারী পরিবার এবং ৭০ বছর বা তার বেশি বয়সী সকল প্রবীণ নাগরিক।",
+      "conditions": "পরিবারের সদস্য সংখ্যা, বয়স বা লিঙ্গের কোনো সীমাবদ্ধতা নেই। পূর্বে থাকা যেকোনো রোগ (pre-existing conditions) প্রথম দিন থেকেই কভার করা হয়।",
+      "benefits": [
+        "পরিবার পিছু প্রতি বছর ₹৫,০০,০০০ পর্যন্ত সম্পূর্ণ ক্যাশলেস চিকিৎসা",
+        "দেশের সমস্ত তালিকাভুক্ত সরকারি ও বেসরকারি হাসপাতালে ১,৯৪৯ টিরও বেশি জটিল অপারেশন ও চিকিৎসা সুবিধা",
+        "হাসপাতালে ভর্তির ৩ দিন পূর্ববর্তী পরীক্ষা এবং ছাড়ার পরবর্তী ১৫ দিনের ওষুধ ও চেক-আপের খরচ অন্তর্ভুক্ত",
+        "সমগ্র ভারতজুড়ে ক্যাশলেস ও পেপারলেস চিকিৎসা পরিষেবা"
+      ],
+      "documents": [
+        "আধার কার্ড অথবা ডিজিটাল রেশন কার্ড",
+        "আয়ুষ্মান কার্ড / পিএম-জেএওয়াই ফ্যামিলি আইডি",
+        "মোবাইল নম্বর"
+      ],
+      "how_to_apply": "https://beneficiary.nha.gov.in ওয়েবসাইটে গিয়ে আধার বা রেশন কার্ড দিয়ে নিজের যোগ্যতা পরীক্ষা করুন। যোগ্য হলে নিকটবর্তী হাসপাতালে 'আয়ুষ্মান মিত্র' ডেস্কে বা সিএসসি কেন্দ্রে বিনামূল্যে আয়ুষ্মান কার্ড সংগ্রহ করুন।",
+      "url": "https://pmjay.gov.in",
+      "helpline": "14555 / 1800-111-565"
+    }
+  },
+  "pmay": {
+    "en": {
+      "name": "Pradhan Mantri Awas Yojana (PMAY - Housing for All)",
+      "what_is_it": "A nationwide central housing scheme to help homeless families and those living in dilapidated/kutcha houses construct or purchase a pucca permanent house.",
+      "ministry": "Ministry of Housing and Urban Affairs / Ministry of Rural Development",
+      "who_can_benefit": "Homeless families or families living in kutcha/dilapidated homes in rural and urban areas.",
+      "conditions": "The beneficiary family must not own a pucca house anywhere in India. Income limits: EWS (up to ₹3 lakh), LIG (₹3-6 lakh). Female head ownership or co-ownership preferred.",
+      "benefits": [
+        "Rural (PMAY-G): Direct financial grant of ₹1,20,000 (plain areas) to ₹1,30,000 (hilly/difficult terrains)",
+        "Urban (PMAY-U): Up to ₹2.67 lakh interest subsidy on housing loans under Credit Linked Subsidy Scheme (CLSS) or ₹1.5 lakh BLC grant",
+        "Additional ₹12,000 financial support for toilet construction under Swachh Bharat Mission",
+        "90-95 days of unskilled wage labor support under MGNREGA"
+      ],
+      "documents": [
+        "Aadhaar Card of all family members",
+        "Income Certificate / BPL Certificate",
+        "Bank Account details (Passbook copy)",
+        "Proof of no existing pucca house / Land ownership record"
+      ],
+      "how_to_apply": "Apply online at https://pmaymis.gov.in (Urban) or through your local Gram Panchayat / Block Development Office (Rural).",
+      "url": "https://pmaymis.gov.in",
+      "helpline": "1800-11-6163 / 1800-11-3377"
+    },
+    "hi": {
+      "name": "प्रधानमंत्री आवास योजना (PMAY - सबके लिए आवास)",
+      "what_is_it": "देश के बेघर और कच्चे/टूटे-फूटे मकानों में रहने वाले परिवारों को बुनियादी सुविधाओं से युक्त पक्का मकान बनाने या खरीदने हेतु आर्थिक अनुदान देने की केंद्र सरकार की योजना।",
+      "ministry": "आवासन और शहरी कार्य मंत्रालय / ग्रामीण विकास मंत्रालय",
+      "who_can_benefit": "ग्रामीण और शहरी क्षेत्रों के बेघर नागरिक या कच्चे मकानों में रहने वाले ईडब्ल्यूएस (EWS) व एलआईजी (LIG) परिवार।",
+      "conditions": "देश में कहीं भी परिवार के किसी भी सदस्य के नाम पर पक्का मकान नहीं होना चाहिए। वार्षिक पारिवारिक आय ईडब्ल्यूएस हेतु ₹3 लाख व एलआईजी हेतु ₹6 लाख तक। महिला का नाम सह-मालिक होना अनिवार्य/वरीयता प्राप्त है।",
+      "benefits": [
+        "ग्रामीण क्षेत्र (PMAY-G): मैदानी इलाकों में ₹1,20,000 तथा पहाड़ी/कठिन क्षेत्रों में ₹1,30,000 का सीधा अनुदान",
+        "शहरी क्षेत्र (PMAY-U): होम लोन पर ₹2.67 लाख तक की ब्याज सब्सिडी (CLSS) या ₹1.5 लाख का सीधा निर्माण अनुदान",
+        "शौचालय निर्माण हेतु स्वच्छ भारत मिशन के तहत अतिरिक्त ₹12,000 की सहायता",
+        "मनरेगा के तहत 90-95 दिनों की अकुशल मजदूरी का लाभ"
+      ],
+      "documents": [
+        "परिवार के सभी सदस्यों का आधार कार्ड",
+        "आय प्रमाण पत्र / बीपीएल राशन कार्ड",
+        "बैंक खाता पासबुक",
+        "पक्का मकान न होने का प्रमाण व जमीन का पट्टा/दस्तावेज"
+      ],
+      "how_to_apply": "शहरी क्षेत्र के लिए https://pmaymis.gov.in पर ऑनलाइन आवेदन करें अथवा ग्रामीण क्षेत्र के लिए ग्राम पंचायत या खंड विकास अधिकारी (BDO) कार्यालय से संपर्क करें।",
+      "url": "https://pmaymis.gov.in",
+      "helpline": "1800-11-6163 / 1800-11-3377"
+    },
+    "hinglish": {
+      "name": "Pradhan Mantri Awas Yojana (PMAY)",
+      "what_is_it": "Ye government housing scheme hai jisme homeless logon aur kutcha ghar me rehne wale families ko apna pucca makaan banane ke liye direct financial subsidy milti hai.",
+      "ministry": "Ministry of Housing and Urban Affairs / Ministry of Rural Development",
+      "who_can_benefit": "EWS aur LIG families jinke paas India me kahin bhi koi pucca ghar nahi hai.",
+      "conditions": "Applicant ke paas pucca ghar nahi hona chahiye. Annual income EWS me ₹3 Lakh aur LIG me ₹6 Lakh tak honi chahiye. Ghar me female head ka naam hona preferred hai.",
+      "benefits": [
+        "Rural area (PMAY-G): ₹1,20,000 se ₹1,30,000 tak ka direct cash assistance",
+        "Urban area (PMAY-U): Home loan par ₹2.67 Lakh tak ki interest subsidy (CLSS)",
+        "Toilet construction ke liye extra ₹12,000 assistance",
+        "MGNREGA ke tehat 90-95 days ki wage labour assistance"
+      ],
+      "documents": [
+        "Sabhi family members ka Aadhaar Card",
+        "Income Certificate / BPL Card",
+        "Bank Passbook copy",
+        "Land records / Pucca ghar na hone ka affidavit"
+      ],
+      "how_to_apply": "Urban ke liye official website https://pmaymis.gov.in par apply karein ya Rural ke liye local Gram Panchayat / Block office visit karein.",
+      "url": "https://pmaymis.gov.in",
+      "helpline": "1800-11-6163 / 1800-11-3377"
+    },
+    "bn": {
+      "name": "প্রধানমন্ত্রী আবাস যোজনা (PMAY - সবার জন্য বাড়ি)",
+      "what_is_it": "গৃহহীন এবং কাঁচা বাড়িতে বসবাসকারী দরিদ্র পরিবারগুলিকে স্থায়ী পাকা বাড়ি তৈরি বা ক্রয়ের জন্য আর্থিক অনুদান প্রদানের জাতীয় আবাসন প্রকল্প।",
+      "ministry": "আবাসন ও নগর বিষয়ক মন্ত্রণালয় / গ্রামীণ উন্নয়ন মন্ত্রণালয়",
+      "who_can_benefit": "দেশের সমস্ত গৃহহীন বা কাঁচা ঘরে বসবাসকারী পরিবার যাদের ভারতে কোনো পাকা বাড়ি নেই।",
+      "conditions": "পরিবারের কোনো সদস্যের নামে ভারতে কোথাও পাকা বাড়ি থাকা চলবে না। পারিবারিক বার্ষিক আয়: EWS (সর্বোচ্চ ₹৩ লক্ষ), LIG (₹৩-৬ লক্ষ)। নারীদের নামে মালিকানা অগ্রাধিকারযোগ্য।",
+      "benefits": [
+        "গ্রামীণ ক্ষেত্রে (PMAY-G): সমতল অঞ্চলে ₹১,২০,০০০ এবং পাহাড়ি/দুর্গম অঞ্চলে ₹১,৩০,০০০ সরাসরি সরকারি অনুদান",
+        "নগর ক্ষেত্রে (PMAY-U): গৃহ ঋণের সুদের ওপর ₹২.৬৭ লক্ষ পর্যন্ত ভর্তুকি (CLSS) অথবা ₹১.৫ লক্ষ নির্মাণ অনুদান",
+        "শৌচালয় নির্মাণের জন্য স্বচ্ছ ভারত মিশনের অধীনে অতিরিক্ত ₹১২,০০০ সহায়তা",
+        "১০০ দিনের কাজের (MGNREGA) আওতায় ৯০-৯৫ দিনের মজুরি সুবিধা"
+      ],
+      "documents": [
+        "পরিবারের সদস্যদের আধার কার্ড",
+        "পারিবারিক আয়ের শংসাপত্র / বিপিএল কার্ড",
+        "ব্যাংক অ্যাকাউন্টের পাসবই",
+        "জমির দলিল বা খতিয়ানের কপি"
+      ],
+      "how_to_apply": "শহরাঞ্চলের জন্য https://pmaymis.gov.in ওয়েবসাইটে আবেদন করুন অথবা গ্রামাঞ্চলের জন্য স্থানীয় গ্রাম পঞ্চায়েত / বিডিও অফিসে যোগাযোগ করুন।",
+      "url": "https://pmaymis.gov.in",
+      "helpline": "1800-11-6163 / 1800-11-3377"
+    }
+  },
+  "pm-mudra": {
+    "en": {
+      "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+      "what_is_it": "A flagship credit scheme providing collateral-free institutional loans up to ₹20 lakh to micro, small, and non-farm income-generating enterprises.",
+      "ministry": "Ministry of Finance",
+      "who_can_benefit": "Small business owners, shopkeepers, traders, artisans, vendors, and budding entrepreneurs in manufacturing, trading, and services.",
+      "conditions": "Age between 18 and 65 years. The applicant must have a viable non-farm business plan and must not be a defaulter with any financial institution.",
+      "benefits": [
+        "Shishu Category: Loans up to ₹50,000 for starting new micro-units",
+        "Kishore Category: Loans from ₹50,001 up to ₹5,00,000 for business expansion",
+        "Tarun Category: Loans from ₹5,00,001 up to ₹20,00,000 for established units",
+        "Zero collateral or third-party guarantee required with flexible repayment terms"
+      ],
+      "documents": [
+        "Identity Proof (Aadhaar / Voter ID / PAN Card)",
+        "Proof of Residence",
+        "Business Registration / Udyam Certificate / Trade License",
+        "Last 6 months Bank Statement & Business Quotation/Project Report"
+      ],
+      "how_to_apply": "Apply online at https://www.udyamimitra.in or submit an application directly at any commercial bank, regional rural bank, or microfinance institution.",
+      "url": "https://www.mudra.org.in",
+      "helpline": "1800 180 1111 / 1800 11 0001"
+    },
+    "hi": {
+      "name": "प्रधानमंत्री मुद्रा योजना (PMMY)",
+      "what_is_it": "गैर-कॉरपोरेट, गैर-कृषि लघु व सूक्ष्म व्यवसायों को बिना किसी गारंटी (कोलैटरल-फ्री) के ₹20 लाख तक का संस्थागत व्यापार ऋण उपलब्ध कराने की योजना।",
+      "ministry": "वित्त मंत्रालय",
+      "who_can_benefit": "छोटे दुकानदार, व्यापारी, कारीगर, विनिर्माण व सेवा क्षेत्र से जुड़े उद्यमी जो नया व्यापार शुरू करना या बढ़ाना चाहते हैं।",
+      "conditions": "आवेदक की आयु 18 से 65 वर्ष के बीच होनी चाहिए। किसी भी बैंक का डिफाल्टर नहीं होना चाहिए और व्यवसाय गैर-कृषि आय से संबंधित होना चाहिए।",
+      "benefits": [
+        "शिशु ऋण: नया सूक्ष्म व्यापार शुरू करने हेतु ₹50,000 तक का ऋण",
+        "किशोर ऋण: मौजूदा व्यापार को बढ़ाने हेतु ₹50,001 से ₹5,00,000 तक का ऋण",
+        "तरुण ऋण: स्थापित इकाइयों के विस्तार हेतु ₹5,00,001 से ₹20,00,000 तक का ऋण",
+        "कोई संपत्ति या गारंटी गिरवी रखने की आवश्यकता नहीं, उचित ब्याज दर"
+      ],
+      "documents": [
+        "पहचान पत्र (आधार कार्ड, पैन कार्ड, वोटर आईडी)",
+        "निवास प्रमाण पत्र",
+        "व्यवसाय प्रमाण (उद्यम पंजीकरण / दुकान लाइसेंस)",
+        "पिछले 6 महीने का बैंक स्टेटमेंट व प्रोजेक्ट रिपोर्ट"
+      ],
+      "how_to_apply": "पोर्टल https://www.udyamimitra.in पर ऑनलाइन आवेदन करें या अपने नजदीकी किसी भी सरकारी या निजी वाणिज्यिक बैंक शाखा में जाएं।",
+      "url": "https://www.mudra.org.in",
+      "helpline": "1800 180 1111 / 1800 11 0001"
+    },
+    "hinglish": {
+      "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+      "what_is_it": "Ye business loan scheme hai jisme small business owners aur entrepreneurs ko bina kisi guarantee/collateral ke ₹20 Lakh tak ka institutional bank loan milta hai.",
+      "ministry": "Ministry of Finance",
+      "who_can_benefit": "Dukandar, traders, artisans, small manufacturing aur service units jo apna business shuru ya expand karna chahte hain.",
+      "conditions": "Applicant ki age 18 se 65 saal honi chahiye. Bank loan defaulter nahi hona chahiye aur business non-farm income generate karta ho.",
+      "benefits": [
+        "Shishu Tier: ₹50,000 tak ka loan new start-up business ke liye",
+        "Kishore Tier: ₹50,001 se ₹5,00,000 tak ka loan business scale karne ke liye",
+        "Tarun Tier: ₹5,00,001 se ₹20,00,000 tak ka loan established units ke liye",
+        "No mortgage or third-party guarantee required"
+      ],
+      "documents": [
+        "Aadhaar Card, PAN Card",
+        "Address Proof (Electricity bill / Ration card)",
+        "Business Proof (Udyam Registration / Shop license)",
+        "Last 6 months Bank Account Statement"
+      ],
+      "how_to_apply": "Online apply karne ke liye https://www.udyamimitra.in visit karein ya apne nearest bank branch me Mudra application form submit karein.",
+      "url": "https://www.mudra.org.in",
+      "helpline": "1800 180 1111 / 1800 11 0001"
+    },
+    "bn": {
+      "name": "প্রধানমন্ত্রী মুদ্রা যোজনা (PMMY)",
+      "what_is_it": "ক্ষুদ্র, মাঝারি ও অকৃষি ব্যবসার প্রসারে এবং নতুন উদ্যোক্তাদের জন্য কোনো প্রকার বন্ধক বা জামানত ছাড়াই ₹২০ লক্ষ পর্যন্ত প্রাতিষ্ঠানিক ব্যাংক ঋণ প্রদানের প্রকল্প।",
+      "ministry": "অর্থ মন্ত্রণালয়",
+      "who_can_benefit": "ছোট ব্যবসায়ী, দোকানদার, কারিগর, উৎপাদক এবং পরিষেবা খাতের নতুন ও বর্তমান উদ্যোক্তাগণ।",
+      "conditions": "বয়স ১৮ থেকে ৬৫ বছরের মধ্যে হতে হবে। আবেদনকারী কোনো ব্যাংকে ঋণখেলাপি হতে পারবেন না এবং একটি কার্যকর ব্যবসায়িক পরিকল্পনা থাকতে হবে।",
+      "benefits": [
+        "শিশু ঋণ: নতুন ব্যবসা শুরুর জন্য ₹৫০,০০০ পর্যন্ত ঋণ",
+        "কিশোর ঋণ: ব্যবসা বৃদ্ধির জন্য ₹৫০,০০১ থেকে ₹৫,০০,০০০ পর্যন্ত ঋণ",
+        "তরুণ ঋণ: প্রতিষ্ঠিত ব্যবসার সম্প্রসারণে ₹৫,০০,০০১ থেকে ₹২০,০০,০০০ পর্যন্ত ঋণ",
+        "কোনো বন্ধক বা জামিনদারের প্রয়োজন নেই এবং সুদের হার সরকারিভাবে নিয়ন্ত্রিত"
+      ],
+      "documents": [
+        "পরিচয়পত্র (আধার কার্ড, প্যান কার্ড, ভোটার আইডি)",
+        "ঠিকানার প্রমাণপত্র",
+        "ব্যবসার প্রমাণপত্র (উদ্যম রেজিস্ট্রেশন / ট্রেড লাইসেন্স)",
+        "গত ৬ মাসের ব্যাংক স্টেটমেন্ট ও প্রজেক্ট রিপোর্ট"
+      ],
+      "how_to_apply": "অনলাইনে https://www.udyamimitra.in পোর্টালে আবেদন করুন অথবা যেকোনো রাষ্ট্রায়ত্ত, বেসরকারি বাণিজ্যিক ব্যাংক বা গ্রামীণ ব্যাংকের শাখায় যোগাযোগ করুন।",
+      "url": "https://www.mudra.org.in",
+      "helpline": "1800 180 1111 / 1800 11 0001"
+    }
+  },
+  "sukanya-samriddhi": {
+    "en": {
+      "name": "Sukanya Samriddhi Yojana (SSY)",
+      "what_is_it": "A high-interest, government-backed small savings scheme launched under Beti Bachao Beti Padhao to build a dedicated education and marriage fund for girl children.",
+      "ministry": "Ministry of Finance",
+      "who_can_benefit": "Parents or legal guardians of a girl child from birth until she reaches 10 years of age.",
+      "conditions": "Only one account per girl child, with a maximum of two accounts per family (exceptions for twins/triplets). Minimum annual deposit ₹250; maximum ₹1.5 lakh per fiscal year.",
+      "benefits": [
+        "Guaranteed high interest rate of approx. 8.2% per annum, compounded annually",
+        "Triple tax exemption (EEE status): deduction under Sec 80C, tax-free interest, and tax-free maturity",
+        "Matures after 21 years or upon marriage after age 18",
+        "50% partial withdrawal allowed for girl's higher education after age 18"
+      ],
+      "documents": [
+        "Birth Certificate of the girl child",
+        "Identity Proof of Parent/Guardian (Aadhaar/PAN)",
+        "Address Proof of Parent/Guardian",
+        "Photographs of child and guardian"
+      ],
+      "how_to_apply": "Open an account by visiting any Post Office branch or authorized public/private commercial banks (SBI, PNB, BoB, etc.) with the child's birth certificate.",
+      "url": "https://www.indiapost.gov.in",
+      "helpline": "1800 266 6868"
+    },
+    "hi": {
+      "name": "सुकन्या समृद्धि योजना (SSY)",
+      "what_is_it": "'बेटी बचाओ, बेटी पढ़ाओ' अभियान के तहत बालिकाओं की उच्च शिक्षा और विवाह हेतु सुरक्षित व उच्च ब्याज दर वाली केंद्र सरकार की छोटी बचत योजना।",
+      "ministry": "वित्त मंत्रालय",
+      "who_can_benefit": "10 वर्ष या उससे कम आयु की बालिकाओं के माता-पिता या कानूनी अभिभावक।",
+      "conditions": "एक बालिका के नाम पर केवल एक खाता और प्रति परिवार अधिकतम दो बालिकाओं हेतु (जुड़वां बच्चियों के मामले में छूट)। न्यूनतम वार्षिक जमा ₹250 तथा अधिकतम ₹1.5 लाख।",
+      "benefits": [
+        "वर्तमान में लगभग 8.2% की उच्चतम सरकारी गारंटीशुदा वार्षिक चक्रवृद्धि ब्याज दर",
+        "पूर्ण कर छूट (EEE स्टेटस): धारा 80C में छूट, ब्याज पूरी तरह कर-मुक्त तथा परिपक्वता राशि भी कर-मुक्त",
+        "खाता खोलने से 21 वर्ष बाद या 18 वर्ष की आयु के बाद विवाह पर परिपक्व",
+        "बालिका के 18 वर्ष की होने पर उच्च शिक्षा हेतु 50% तक निकासी की सुविधा"
+      ],
+      "documents": [
+        "बालिका का जन्म प्रमाण पत्र (Birth Certificate)",
+        "माता-पिता/अभिभावक का आधार कार्ड व पैन कार्ड",
+        "अभिभावक का निवास प्रमाण पत्र",
+        "पासपोर्ट साइज फोटो"
+      ],
+      "how_to_apply": "किसी भी डाकघर (Post Office) या अधिकृत वाणिज्यिक बैंक (जैसे SBI, PNB, BoB) में जाकर सुकन्या समृद्धि खाता फॉर्म भरकर जमा करें।",
+      "url": "https://www.indiapost.gov.in",
+      "helpline": "1800 266 6868"
+    },
+    "hinglish": {
+      "name": "Sukanya Samriddhi Yojana (SSY)",
+      "what_is_it": "Ye girl child ke liye government-backed savings scheme hai jisme highest interest rate aur tax-free maturity ke sath beti ki padhai aur shadi ka fund tayar kiya ja sakta hai.",
+      "ministry": "Ministry of Finance",
+      "who_can_benefit": "Wo parents jinki beti ki age 10 saal ya usse kam hai.",
+      "conditions": "Ek beti ke naam par ek hi account khul sakta hai, maximum 2 daughters per family. Saal me minimum ₹250 aur maximum ₹1,50,000 deposit kiya ja sakta hai.",
+      "benefits": [
+        "Approx. 8.2% high annual compound interest rate",
+        "Triple Tax Exemption (EEE): 80C deduction, tax-free interest, tax-free maturity",
+        "18 saal ki age ke baad higher education ke liye 50% withdrawal allowed",
+        "Account 21 years me ya beti ki 18+ age me shadi hone par mature hota hai"
+      ],
+      "documents": [
+        "Beti ka Birth Certificate",
+        "Parent/Guardian ka Aadhaar Card aur PAN Card",
+        "Address Proof",
+        "Passport size photographs"
+      ],
+      "how_to_apply": "Nearest Post Office ya authorized commercial bank branch (SBI, PNB etc.) me Birth Certificate le jakar account open karwayen.",
+      "url": "https://www.indiapost.gov.in",
+      "helpline": "1800 266 6868"
+    },
+    "bn": {
+      "name": "সুকন্যা সমৃদ্ধি যোজনা (SSY)",
+      "what_is_it": "'বেটি বাঁচাও, বেটি পড়াও' প্রকল্পের আওতায় কন্যা সন্তানের উচ্চশিক্ষা ও বিবাহের খরচ সঞ্চয়ের জন্য সর্বোচ্চ সরকারি নিশ্চিত সুদযুক্ত ক্ষুদ্র সঞ্চয় প্রকল্প।",
+      "ministry": "অর্থ মন্ত্রণালয়",
+      "who_can_benefit": "১০ বছর বা তার কম বয়সী কন্যাসন্তানের পিতা-মাতা বা আইনসম্মত অভিভাবক।",
+      "conditions": "একটি কন্যার জন্য একটিই অ্যাকাউন্ট এবং পরিবারে সর্বোচ্চ দুটি কন্যাসন্তানের জন্য অ্যাকাউন্ট খোলা যায় (যমজের ক্ষেত্রে ব্যতিক্রম)। বছরে সর্বনিম্ন ₹২৫০ এবং সর্বোচ্চ ₹১.৫ লক্ষ জমা দেওয়া যায়।",
+      "benefits": [
+        "বর্তমানে প্রায় ৮.২% হারে আকর্ষণীয় চক্রবৃদ্ধি সরকারি নিশ্চিত সুদ",
+        "সম্পূর্ণ করমুক্ত (EEE স্ট্যাটাস): ধারা 80C ছাড়, সুদের ওপর কোনো ট্যাক্স নেই এবং পরিপক্কতার টাকাও সম্পূর্ণ করমুক্ত",
+        "মেয়ের ১৮ বছর বয়স হলে উচ্চশিক্ষার জন্য জমার ৫০% টাকা তোলার সুবিধা",
+        "অ্যাকাউন্ট খোলার ২১ বছর পর অথবা ১৮ বছরের পর বিবাহের সময় সম্পূর্ণ পরিপক্ক হয়"
+      ],
+      "documents": [
+        "কন্যা সন্তানের ডিজিটাল জন্ম শংসাপত্র (Birth Certificate)",
+        "অভিভাবকের আধার কার্ড এবং প্যান কার্ড",
+        "অভিভাবকের ঠিকানার প্রমাণপত্র",
+        "পাসপোর্ট সাইজ ছবি"
+      ],
+      "how_to_apply": "নিকটবর্তী যেকোনো ডাকঘর (Post Office) অথবা অনুমোদিত ব্যাংক শাখায় (SBI, PNB, ইত্যাদিতে) জন্ম শংসাপত্র সহ গিয়ে সুকন্যা সমৃদ্ধি অ্যাকাউন্ট খুলুন।",
+      "url": "https://www.indiapost.gov.in",
+      "helpline": "1800 266 6868"
+    }
+  },
+  "pm-ujjwala": {
+    "en": {
+      "name": "Pradhan Mantri Ujjwala Yojana 2.0 (PMUY)",
+      "what_is_it": "A flagship scheme providing deposit-free LPG gas connections to adult women from economically backward and poor households to ensure clean, smokeless cooking fuel.",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "who_can_benefit": "Adult women (18+) belonging to BPL, SC/ST, most backward classes, and economically deprived households.",
+      "conditions": "No other LPG connection must exist in the household. Must be registered in the name of an adult woman of the family.",
+      "benefits": [
+        "Completely deposit-free LPG connection including cylinder and regulator",
+        "First cylinder refill and high-grade LPG gas stove provided free of cost",
+        "Direct targeted subsidy of ₹300 per cylinder for up to 12 refills per year",
+        "Protection from toxic indoor pollution caused by firewood and cow dung"
+      ],
+      "documents": [
+        "Aadhaar Card of female applicant and adult family members",
+        "Ration Card / BPL card showing family composition",
+        "Bank Account details (Aadhaar linked for DBT subsidy)",
+        "Self-declaration for migrant families"
+      ],
+      "how_to_apply": "Apply online at https://www.pmuy.gov.in by choosing your preferred LPG distributor (Indane, Bharatgas, or HP Gas) or submit physical forms at your local gas agency.",
+      "url": "https://www.pmuy.gov.in",
+      "helpline": "1800-266-6696 / 1906"
+    },
+    "hi": {
+      "name": "प्रधानमंत्री उज्ज्वला योजना 2.0 (PMUY)",
+      "what_is_it": "गरीब व बीपीएल परिवारों की वयस्क महिलाओं को धुएं से मुक्ति और स्वच्छ रसोई ईंधन प्रदान करने हेतु मुफ्त एलपीजी गैस कनेक्शन देने की योजना।",
+      "ministry": "पेट्रोलियम एवं प्राकृतिक गैस मंत्रालय",
+      "who_can_benefit": "गरीब व वंचित परिवारों की 18 वर्ष से अधिक आयु की वयस्क महिलाएं।",
+      "conditions": "परिवार में पहले से किसी भी तेल कंपनी का कोई अन्य एलपीजी कनेक्शन नहीं होना चाहिए। कनेक्शन केवल महिला के नाम पर जारी होता है।",
+      "benefits": [
+        "सुरक्षा जमा-मुक्त (Deposit-free) नया एलपीजी गैस कनेक्शन",
+        "पहला गैस सिलेंडर रिफिल और गैस चूल्हा (हॉटप्लेट) बिल्कुल मुफ्त",
+        "प्रति वर्ष 12 सिलेंडरों तक ₹300 प्रति सिलेंडर की सीधी बैंक सब्सिडी",
+        "घर के अंदर जहरीले धुएं से होने वाली बीमारियों से सुरक्षा"
+      ],
+      "documents": [
+        "महिला आवेदक और परिवार के वयस्क सदस्यों का आधार कार्ड",
+        "राशन कार्ड या परिवार संरचना प्रमाणित करने वाला दस्तावेज",
+        "सब्सिडी हेतु आधार लिंक बैंक खाता",
+        "प्रवासी कामगारों के लिए स्व-घोषणा पत्र"
+      ],
+      "how_to_apply": "आधिकारिक वेबसाइट https://www.pmuy.gov.in पर ऑनलाइन आवेदन करें या नजदीकी एलपीजी वितरक (इंडेन, भारतगैस या एचपी गैस एजेंसी) में जाकर फॉर्म जमा करें।",
+      "url": "https://www.pmuy.gov.in",
+      "helpline": "1800-266-6696 / 1906"
+    },
+    "hinglish": {
+      "name": "Pradhan Mantri Ujjwala Yojana 2.0 (PMUY)",
+      "what_is_it": "Ye scheme BPL aur poor families ki adult women ko free LPG gas cylinder connection provide karti hai taaki kitchen smokeless aur healthy bane.",
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "who_can_benefit": "Poor families ki adult women (18+ years).",
+      "conditions": "Ghar me pehle se koi doosra LPG gas connection nahi hona chahiye. Connection sirf family ki woman ke naam par issue hota hai.",
+      "benefits": [
+        "Free deposit-free LPG gas connection (cylinder + regulator)",
+        "Pehla refill cylinder aur gas chulha (stove) bilkul free",
+        "Saal me 12 refills tak ₹300 per cylinder direct subsidy bank account me",
+        "Indoor air pollution aur dhuen se freedom"
+      ],
+      "documents": [
+        "Applicant aur family members ka Aadhaar Card",
+        "Ration Card / BPL card",
+        "Aadhaar-linked Bank Account details",
+        "Mobile Number"
+      ],
+      "how_to_apply": "Official website https://www.pmuy.gov.in par visit karein ya nearest LPG gas distributor (Indane, Bharatgas, HP) ke paas form submit karein.",
+      "url": "https://www.pmuy.gov.in",
+      "helpline": "1800-266-6696 / 1906"
+    },
+    "bn": {
+      "name": "প্রধানমন্ত্রী উজ্জ্বলা যোজনা ২.০ (PMUY)",
+      "what_is_it": "অর্থনৈতিকভাবে পিছিয়ে পড়া ও দারিদ্র্যসীমার নিচের পরিবারগুলির প্রাপ্তবয়স্ক মহিলাদের রান্নার ধোঁয়ামুক্ত পরিবেশ দিতে বিনামূল্যে এলপিজি গ্যাস সংযোগ প্রদানের প্রকল্প।",
+      "ministry": "পেট্রোলিয়াম ও প্রাকৃতিক গ্যাস মন্ত্রণালয়",
+      "who_can_benefit": "দরিদ্র ও বিপিএল তালিকাভুক্ত পরিবারের ১৮ বছর বা তার বেশি বয়সী নারী সদস্য।",
+      "conditions": "পরিবারে আগে থেকে কোনো সক্রিয় রান্নার গ্যাস সংযোগ থাকা চলবে না। সংযোগটি শুধুমাত্র পরিবারের প্রাপ্তবয়স্ক নারীর নামে অনুমোদিত হবে।",
+      "benefits": [
+        "সম্পূর্ণ ডিপোজিট-মুক্ত বিনামূল্যে নতুন এলপিজি গ্যাস সংযোগ",
+        "প্রথম রিফিল সিলিন্ডার এবং গ্যাস ওভেন/উনুন সম্পূর্ণ বিনামূল্যে প্রদান",
+        "বছরে ১২টি সিলিন্ডার পর্যন্ত সিলিন্ডার পিছু ₹৩০০ সরাসরি ব্যাংক ভর্তুকি",
+        "কাঠ ও কয়লার বিষাক্ত ধোঁয়া থেকে নারীদের স্বাস্থ্য রক্ষা"
+      ],
+      "documents": [
+        "আবেদনকারী নারী ও পরিবারের অন্যান্য প্রাপ্তবয়স্ক সদস্যদের আধার কার্ড",
+        "রেশন কার্ড / পারিবারিক কাঠামোর প্রমাণপত্র",
+        "ভর্তুকি পাওয়ার জন্য আধারের সাথে যুক্ত ব্যাংক অ্যাকাউন্ট",
+        "সক্রিয় মোবাইল নম্বর"
+      ],
+      "how_to_apply": "অনলাইনে https://www.pmuy.gov.in ওয়েবসাইটে গিয়ে আবেদন করুন অথবা নিকটবর্তী রান্নার গ্যাস এজেন্সিতে (ইন্ডেন, ভারতগ্যাস বা এইচপি গ্যাস) গিয়ে ফর্ম জমা দিন।",
+      "url": "https://www.pmuy.gov.in",
+      "helpline": "1800-266-6696 / 1906"
+    }
+  },
+  "atal-pension": {
+    "en": {
+      "name": "Atal Pension Yojana (APY)",
+      "what_is_it": "A guaranteed lifelong pension scheme administered by PFRDA for citizens in the unorganized sector to provide financial security in old age after 60.",
+      "ministry": "Ministry of Finance / PFRDA",
+      "who_can_benefit": "All Indian citizens aged between 18 and 40 years working in unorganized sectors.",
+      "conditions": "Must join between ages 18 and 40. From October 1, 2022, income-tax payers are not eligible to open new APY accounts. Savings bank account required.",
+      "benefits": [
+        "Guaranteed monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 starting at age 60 until death",
+        "Same pension continues to spouse for life after subscriber's demise",
+        "Full accumulated pension wealth corpus returned to registered nominee upon death of both",
+        "Extremely affordable contributions starting as low as ₹42 per month"
+      ],
+      "documents": [
+        "Aadhaar Card",
+        "Savings Bank Account / Post Office Account with auto-debit facility",
+        "Active Mobile Number"
+      ],
+      "how_to_apply": "Enroll online through your bank's net banking portal or visit any commercial bank or Post Office branch where you hold a savings account.",
+      "url": "https://www.npscra.nsdl.co.in",
+      "helpline": "1800 110 069"
+    },
+    "hi": {
+      "name": "अटल पेंशन योजना (APY)",
+      "what_is_it": "असंगठित क्षेत्र के कामगारों के लिए 60 वर्ष की आयु के बाद आजीवन गारंटीशुदा मासिक पेंशन प्रदान करने की भारत सरकार की सामाजिक सुरक्षा योजना।",
+      "ministry": "वित्त मंत्रालय / PFRDA",
+      "who_can_benefit": "18 से 40 वर्ष की आयु के सभी भारतीय नागरिक जो असंगठित क्षेत्र में कार्य करते हैं।",
+      "conditions": "आयु 18 से 40 वर्ष के मध्य होनी चाहिए। 1 अक्टूबर 2022 से आयकर दाता अटल पेंशन योजना में नया खाता खोलने के पात्र नहीं हैं।",
+      "benefits": [
+        "60 वर्ष की आयु के बाद ₹1,000, ₹2,000, ₹3,000, ₹4,000 या ₹5,000 की आजीवन मासिक पेंशन",
+        "सब्सक्राइबर की मृत्यु के बाद पति/पत्नी को आजीवन समान पेंशन",
+        "दोनों की मृत्यु के बाद नामांकित व्यक्ति (Nominee) को पूरा संचित फंड वापस",
+        "मात्र ₹42 प्रति माह से शुरू होने वाला सबसे किफायती अंशदान"
+      ],
+      "documents": [
+        "आधार कार्ड",
+        "ऑटो-डेबिट सुविधा युक्त बचत बैंक खाता या डाकघर खाता",
+        "सक्रिय मोबाइल नंबर"
+      ],
+      "how_to_apply": "अपने बैंक की इंटरनेट बैंकिंग से ऑनलाइन सब्सक्राइब करें या जिस बैंक/डाकघर में आपका खाता है वहां जाकर एपीवाई फॉर्म भरें।",
+      "url": "https://www.npscra.nsdl.co.in",
+      "helpline": "1800 110 069"
+    },
+    "hinglish": {
+      "name": "Atal Pension Yojana (APY)",
+      "what_is_it": "Ye unorganized sector workers ke liye government ki pension scheme hai jisme 60 saal ki age ke baad lifelong guaranteed monthly pension milti hai.",
+      "ministry": "Ministry of Finance / PFRDA",
+      "who_can_benefit": "18 se 40 saal ke Indian citizens jinke paas bank account hai.",
+      "conditions": "Joining age 18-40 years honi chahiye. Income tax pay karne wale log isme eligible nahi hain. Bank account me auto-debit facility honi chahiye.",
+      "benefits": [
+        "60 years age complete hone par ₹1,000 se ₹5,000 per month guaranteed lifelong pension",
+        "Subscriber ki death ke baad spouse ko same pension lifelong milegi",
+        "Spouse ke baad nominee ko poora accumulated pension fund return ho jata hai",
+        "Minimum monthly contribution sirf ₹42 se start hota hai"
+      ],
+      "documents": [
+        "Aadhaar Card",
+        "Savings Bank Account / Post office account",
+        "Active Mobile Number"
+      ],
+      "how_to_apply": "Apne bank ki Net Banking se online register karein ya bank branch jakar Atal Pension Yojana (APY) form submit karein.",
+      "url": "https://www.npscra.nsdl.co.in",
+      "helpline": "1800 110 069"
+    },
+    "bn": {
+      "name": "অটল পেনশন যোজনা (APY)",
+      "what_is_it": "অসংগঠিত ক্ষেত্রের কর্মীদের বার্ধক্যে আর্থিক সুরক্ষা নিশ্চিত করতে ৬০ বছর বয়সের পর থেকে আজীবন নির্দিষ্ট মাসিক পেনশন প্রদানের সরকারি প্রকল্প।",
+      "ministry": "অর্থ মন্ত্রণালয় / PFRDA",
+      "who_can_benefit": "১৮ থেকে ৪০ বছর বয়সী যেকোনো ভারতীয় নাগরিক যিনি অসংগঠিত ক্ষেত্রে কর্মরত।",
+      "conditions": "যোগদানের বয়স ১৮ থেকে ৪০ বছরের মধ্যে হতে হবে। ১ অক্টোবর ২০২২ থেকে আয়করদাতারা নতুন অটল পেনশন অ্যাকাউন্ট খোলার যোগ্য নন।",
+      "benefits": [
+        "৬০ বছর বয়সের পর থেকে আজীবন প্রতি মাসে ₹১,০০০, ₹২,০০০, ₹৩,০০০, ₹৪,০০০ বা ₹৫,০০০ নিশ্চিত পেনশন",
+        "গ্রাহকের মৃত্যুর পর তার স্বামী বা স্ত্রী আজীবন সমপরিমাণ পেনশন পাবেন",
+        "উভয়ের মৃত্যুর পর সম্পূর্ণ জমানো পেনশনের মূল অর্থ মনোনীত ব্যক্তিকে (Nominee) ফেরত দেওয়া হয়",
+        "১৮ বছর বয়সে মাত্র ₹৪২ প্রতি মাসের স্বল্প কিস্তিতে শুরু করা যায়"
+      ],
+      "documents": [
+        "আধার কার্ড",
+        "অটো-ডেবিট সুবিধাযুক্ত সেভিংস ব্যাংক বা পোস্ট অফিস অ্যাকাউন্ট",
+        "সক্রিয় মোবাইল নম্বর"
+      ],
+      "how_to_apply": "নিজের ব্যাংকের ইন্টারনেট ব্যাংকিং-এর মাধ্যমে অনলাইনে অথবা যে ব্যাংকে অ্যাকাউন্ট আছে সেই ব্যাংক বা পোস্ট অফিস শাখায় গিয়ে ফর্ম পূরণ করুন।",
+      "url": "https://www.npscra.nsdl.co.in",
+      "helpline": "1800 110 069"
+    }
+  },
+  "pm-vishwakarma": {
+    "en": {
+      "name": "PM Vishwakarma Yojana",
+      "what_is_it": "An end-to-end holistic scheme supporting traditional artisans and craftspeople across 18 trades with training, toolkit grants, and collateral-free concessional loans.",
+      "ministry": "Ministry of Micro, Small & Medium Enterprises (MSME)",
+      "who_can_benefit": "Artisans and craftspeople working with hands and tools in 18 recognized trades (carpenters, blacksmiths, potters, cobblers, masons, tailors, barbers, washermen, etc.).",
+      "conditions": "Minimum age 18 years. Limited to one member per family. No government servants or their family members eligible. Should not have availed similar loans (Mudra/PMEGP) in past 5 years.",
+      "benefits": [
+        "PM Vishwakarma Certificate and Digital ID Card recognition",
+        "Free 5-7 days basic skill training & 15+ days advanced training with ₹500/day stipend",
+        "₹15,000 e-voucher / grant for purchasing modern toolkits",
+        "Collateral-free credit: 1st tranche up to ₹1,00,000 (18 months) and 2nd tranche up to ₹2,00,000 (30 months) at only 5% concessional interest rate"
+      ],
+      "documents": [
+        "Aadhaar Card",
+        "Aadhaar-linked Mobile Number",
+        "Bank Account details",
+        "Ration card / Proof of practicing trade"
+      ],
+      "how_to_apply": "Register with biometric authentication at any Common Service Centre (CSC) or visit https://pmvishwakarma.gov.in.",
+      "url": "https://pmvishwakarma.gov.in",
+      "helpline": "1800 267 7777 / 011-23061500"
+    },
+    "hi": {
+      "name": "पीएम विश्वकर्मा योजना",
+      "what_is_it": "पारंपरिक 18 शिल्पों से जुड़े कारीगरों और दस्तकारों को पहचान, आधुनिक प्रशिक्षण, टूलकिट अनुदान और 5% रियायती ब्याज दर पर ऋण देकर सशक्त बनाने की योजना।",
+      "ministry": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (MSME)",
+      "who_can_benefit": "हाथों और औजारों से काम करने वाले 18 पारंपरिक व्यवसायों के कारीगर (बढ़ई, लोहार, कुम्हार, राजमिस्त्री, मोची, दर्जी, नाई आदि)।",
+      "conditions": "न्यूनतम आयु 18 वर्ष। परिवार के केवल एक सदस्य को लाभ। परिवार में कोई सरकारी कर्मचारी नहीं होना चाहिए।",
+      "benefits": [
+        "पीएम विश्वकर्मा प्रमाण पत्र और डिजिटल आईडी कार्ड से राष्ट्रीय पहचान",
+        "5-7 दिन का बुनियादी व 15+ दिन का उन्नत प्रशिक्षण तथा ₹500 प्रतिदिन का वजीफा (Stipend)",
+        "आधुनिक औजार खरीदने हेतु ₹15,000 का ई-वाउचर / टूलकिट प्रोत्साहन",
+        "बिना किसी गारंटी के रियायती 5% ब्याज पर ऋण: पहली किस्त ₹1,00,000 तथा दूसरी किस्त ₹2,00,000"
+      ],
+      "documents": [
+        "आधार कार्ड",
+        "आधार से लिंक मोबाइल नंबर",
+        "बैंक खाता विवरण",
+        "राशन कार्ड व पारंपरिक शिल्प का विवरण"
+      ],
+      "how_to_apply": "नजदीकी सीएससी (CSC) केंद्र पर बायोमेट्रिक सत्यापन के साथ मुफ्त पंजीकरण कराएं या https://pmvishwakarma.gov.in पर विवरण देखें।",
+      "url": "https://pmvishwakarma.gov.in",
+      "helpline": "1800 267 7777 / 011-23061500"
+    },
+    "hinglish": {
+      "name": "PM Vishwakarma Yojana",
+      "what_is_it": "Traditional 18 trades ke karigaron aur craftspeople ke liye scheme hai jisme free training, ₹15,000 toolkit voucher aur 5% concessional rate par collateral-free loan milta hai.",
+      "ministry": "Ministry of MSME",
+      "who_can_benefit": "Carpenters, lohar, kumhaar, rajmistri, darzi, naai, mochi sahit 18 traditional professions ke karigar.",
+      "conditions": "Age minimum 18 years honi chahiye. Family me se sirf 1 person eligible hai. Family me koi government employee nahi hona chahiye.",
+      "benefits": [
+        "Official PM Vishwakarma ID Card aur Certificate",
+        "Skill training ke dauran ₹500 per day ka stipend",
+        "Tools khareedne ke liye ₹15,000 ka toolkit voucher",
+        "Collateral-free loan at 5% interest: 1st tranche ₹1 Lakh aur 2nd tranche ₹2 Lakh"
+      ],
+      "documents": [
+        "Aadhaar Card",
+        "Aadhaar linked Mobile Number",
+        "Bank Account details",
+        "Ration Card / Trade proof"
+      ],
+      "how_to_apply": "Nearest Common Service Centre (CSC) jakar biometric verification ke sath free registration karwayen ya https://pmvishwakarma.gov.in par login karein.",
+      "url": "https://pmvishwakarma.gov.in",
+      "helpline": "1800 267 7777 / 011-23061500"
+    },
+    "bn": {
+      "name": "প্রধানমন্ত্রী বিশ্বকর্মা যোজনা",
+      "what_is_it": "১৮টি ঐতিহ্যবাহী পেশার কারিগর ও হস্তশিল্পীদের পরিচয়পত্র, দক্ষতা বৃদ্ধি প্রশিক্ষণ, টুলকিট অনুদান এবং মাত্র ৫% স্বল্প সুদে জামানতমুক্ত ঋণ প্রদানের সর্বাঙ্গীন প্রকল্প।",
+      "ministry": "ক্ষুদ্র, ছোট ও মাঝারি শিল্প মন্ত্রণালয় (MSME)",
+      "who_can_benefit": "হাত ও ঐতিহ্যবাহী যন্ত্রপাতি দিয়ে কাজ করা ১৮টি পেশার কারিগর (ছুতোর, কামার, কুমার, রাজমিস্ত্রি, মুচি, দর্জি, নাপিত, ইত্যাদি)।",
+      "conditions": "বয়স ন্যূনতম ১৮ বছর হতে হবে। পরিবার পিছু কেবল একজন সদস্য আবেদন করতে পারবেন। পরিবারে কোনো সরকারি চাকুরিজীবী থাকা চলবে না।",
+      "benefits": [
+        "পিএম বিশ্বকর্মা প্রশংসাপত্র ও ডিজিটাল পরিচয়পত্র",
+        "বিনামূল্যে ৫-৭ দিনের বেসিক ও ১৫ দিনের অ্যাডভান্স ট্রেনিং সহ দৈনিক ₹৫০০ স্টাইপেন্ড",
+        "উন্নত যন্ত্রপাতি কেনার জন্য ₹১৫,০০০ টাকার টুলকিট অনুদান",
+        "কোনো বন্ধক ছাড়াই মাত্র ৫% সুদে ঋণ: ১ম ধাপে ₹১,০০,০০০ এবং সময়মতো পরিশোধে ২য় ধাপে ₹২,০০,০০০ ঋণ"
+      ],
+      "documents": [
+        "আধার কার্ড",
+        "আধারের সাথে যুক্ত মোবাইল নম্বর",
+        "ব্যাংক অ্যাকাউন্টের বিবরণ",
+        "রেশন কার্ড / কাজের বিবরণ"
+      ],
+      "how_to_apply": "নিকটবর্তী কমন সার্ভিস সেন্টারে (CSC) গিয়ে বায়োমেট্রিক অথেন্টিকেশনের মাধ্যমে বিনামূল্যে নিবন্ধন করুন অথবা https://pmvishwakarma.gov.in দেখুন।",
+      "url": "https://pmvishwakarma.gov.in",
+      "helpline": "1800 267 7777 / 011-23061500"
+    }
+  },
+  "national-scholarship": {
+    "en": {
+      "name": "National Scholarship Portal (NSP) Schemes",
+      "what_is_it": "A single-window digital portal offering central and state scholarship schemes for school, college, and university students from low-income and minority backgrounds.",
+      "ministry": "Ministry of Education / Ministry of Social Justice / Ministry of Minority Affairs",
+      "who_can_benefit": "Meritorious students from economically weaker sections (EWS), SC, ST, OBC, and minority communities enrolled in recognized institutions.",
+      "conditions": "Regular enrolled student. Minimum 50% to 60% marks in previous examination. Family annual income must be within ₹2.5 Lakh to ₹4.5 Lakh depending on scheme.",
+      "benefits": [
+        "Financial scholarships ranging from ₹10,000 to ₹50,000+ per year covering tuition and maintenance",
+        "Direct Benefit Transfer (DBT) directly into student's personal bank account",
+        "Pre-matric, Post-matric, Top-class college, and professional degree scholarships",
+        "Zero corruption with transparent online tracking"
+      ],
+      "documents": [
+        "Student Aadhaar Card & One-Time Registration (OTR)",
+        "Previous year academic marksheet",
+        "Competent Revenue Authority Family Income Certificate",
+        "Bonafide Student Certificate & current year fee receipt",
+        "Bank account passbook in student's name"
+      ],
+      "how_to_apply": "Register and submit online application at https://scholarships.gov.in using your One-Time Registration (OTR).",
+      "url": "https://scholarships.gov.in",
+      "helpline": "0120-6619540"
+    },
+    "hi": {
+      "name": "राष्ट्रीय छात्रवृत्ति पोर्टल (NSP) योजनाएं",
+      "what_is_it": "कम आय वर्ग, एससी, एसटी, ओबीसी और अल्पसंख्यक समुदाय के मेधावी विद्यार्थियों को स्कूल, कॉलेज व विश्वविद्यालय स्तर पर आर्थिक सहायता प्रदान करने का राष्ट्रीय डिजिटल पोर्टल।",
+      "ministry": "शिक्षा मंत्रालय / सामाजिक न्याय एवं अधिकारिता मंत्रालय",
+      "who_can_benefit": "मान्यता प्राप्त संस्थानों में नियमित अध्ययनरत मेधावी छात्र-छात्राएं जिनके परिवार की आय निर्धारित सीमा में है।",
+      "conditions": "पिछली परीक्षा में न्यूनतम 50% से 60% अंक। परिवार की वार्षिक आय ₹2.5 लाख से ₹4.5 लाख से अधिक नहीं होनी चाहिए।",
+      "benefits": [
+        "ट्यूशन फीस और रखरखाव हेतु प्रति वर्ष ₹10,000 से ₹50,000+ तक की छात्रवृत्ति",
+        "बिना किसी बिचौलिये के सीधे छात्र के बैंक खाते में डीबीटी (DBT) द्वारा भुगतान",
+        "प्री-मैट्रिक, पोस्ट-मैट्रिक और उच्च तकनीकी शिक्षा हेतु छात्रवृत्तियां उपलब्ध",
+        "पारदर्शी ऑनलाइन ट्रैकिंग व सत्यापन प्रणाली"
+      ],
+      "documents": [
+        "विद्यार्थी का आधार कार्ड व OTR नंबर",
+        "पिछली कक्षा की मार्कशीट",
+        "सक्षम राजस्व अधिकारी द्वारा जारी आय प्रमाण पत्र",
+        "स्कूल/कॉलेज का बोनाफाइड छात्र प्रमाण पत्र व फीस रसीद",
+        "विद्यार्थी के नाम का बैंक खाता पासबुक"
+      ],
+      "how_to_apply": "आधिकारिक राष्ट्रीय छात्रवृत्ति पोर्टल https://scholarships.gov.in पर OTR के माध्यम से ऑनलाइन पंजीकरण और आवेदन करें।",
+      "url": "https://scholarships.gov.in",
+      "helpline": "0120-6619540"
+    },
+    "hinglish": {
+      "name": "National Scholarship Portal (NSP) Schemes",
+      "what_is_it": "Ye central portal hai jahan school, college aur university students ko education ke liye direct government scholarships milti hain.",
+      "ministry": "Ministry of Education / Social Justice",
+      "who_can_benefit": "Regular students from low-income families, SC, ST, OBC aur minority communities.",
+      "conditions": "Previous class me 50-60% marks compulsory. Family annual income ₹2.5L se ₹4.5L ke andar honi chahiye. Student kisi aur government scholarship ka benefit na le raha ho.",
+      "benefits": [
+        "Fees aur books/maintenance ke liye ₹10,000 se ₹50,000+ per year scholarship",
+        "Direct Benefit Transfer (DBT) se student ke bank account me paisa transfer",
+        "College degree, Engineering, Medical aur Post Graduate courses covered",
+        "100% online verification aur transparent system"
+      ],
+      "documents": [
+        "Student Aadhaar Card aur OTR registration",
+        "Last exam ki Marksheet",
+        "Family Income Certificate (Tehsildar dwara)",
+        "College Bonafide Certificate aur Fee Receipt",
+        "Student ke naam par Bank Passbook"
+      ],
+      "how_to_apply": "Portal https://scholarships.gov.in par OTR registration karke scheme select karein aur online form submit karein.",
+      "url": "https://scholarships.gov.in",
+      "helpline": "0120-6619540"
+    },
+    "bn": {
+      "name": "জাতীয় স্কলারশিপ পোর্টাল (NSP) যোজনা",
+      "what_is_it": "স্বল্প আয়ের পরিবার, এসসি, এসটি, ওবিসি এবং সংখ্যালঘু সম্প্রদায়ের মেধাবী ছাত্রছাত্রীদের স্কুল, কলেজ ও বিশ্ববিদ্যালয়ের পড়াশোনার জন্য সরাসরি সরকারি বৃত্তি প্রদানের একক ডিজিটাল পোর্টাল।",
+      "ministry": "শিক্ষা মন্ত্রণালয় / সামাজিক ন্যায়বিচার মন্ত্রণালয়",
+      "who_can_benefit": "অনুমোদিত শিক্ষাপ্রতিষ্ঠানে নিয়মিত পাঠরত মেধাবী শিক্ষার্থীগণ।",
+      "conditions": "পূর্ববর্তী পরীক্ষায় ন্যূনতম ৫০% থেকে ৬০% নম্বর থাকতে হবে। পারিবারিক বার্ষিক আয় প্রকল্পের ধরন অনুযায়ী ₹২.৫ লক্ষ থেকে ₹৪.৫ লক্ষের মধ্যে হতে হবে।",
+      "benefits": [
+        "টিউশন ফি এবং পড়াশোনার খরচের জন্য বছরে ₹১০,০০০ থেকে ₹৫০,০০০+ পর্যন্ত আর্থিক বৃত্তি",
+        "সরাসরি ছাত্রছাত্রীর নিজস্ব ব্যাংক অ্যাকাউন্টে ডিবিটি (DBT) মারফত অর্থপ্রদান",
+        "প্রি-ম্যাট্রিক, পোস্ট-ম্যাট্রিক এবং কারিগরি/উচ্চশিক্ষার জন্য বিভিন্ন স্কলারশিপ",
+        "সম্পূর্ণ স্বচ্ছ ও অনলাইন ট্র্যাকিং ব্যবস্থা"
+      ],
+      "documents": [
+        "শিক্ষার্থীর আধার কার্ড এবং OTR নম্বর",
+        "পূর্ববর্তী পরীক্ষার মার্কশিট",
+        "রাজস্ব আধিকারিক প্রদত্ত পারিবারিক আয়ের শংসাপত্র",
+        "বর্তমান স্কুল/কলেজের বোনফাইড সার্টিফিকেট এবং ফি রসিদ",
+        "শিক্ষার্থীর নিজস্ব ব্যাংক অ্যাকাউন্টের পাসবই"
+      ],
+      "how_to_apply": "https://scholarships.gov.in ওয়েবসাইটে গিয়ে One-Time Registration (OTR) সম্পন্ন করে অনলাইনে আবেদন জমা দিন।",
+      "url": "https://scholarships.gov.in",
+      "helpline": "0120-6619540"
+    }
+  },
+  "pm-svanidhi": {
+    "en": {
+      "name": "PM SVANidhi (Street Vendor's AtmaNirbhar Nidhi)",
+      "what_is_it": "A micro-credit facility providing collateral-free working capital loans up to ₹50,000 with a 7% interest subsidy to urban and peri-urban street vendors.",
+      "ministry": "Ministry of Housing and Urban Affairs",
+      "who_can_benefit": "Urban and peri-urban street vendors, hawkers, thelawalas, and small sellers.",
+      "conditions": "Must hold Certificate of Vending (CoV) or Identity Card issued by Urban Local Bodies (ULB) or Letter of Recommendation (LoR).",
+      "benefits": [
+        "1st Tranche: Collateral-free working capital loan up to ₹10,000 (1 year tenure)",
+        "2nd Tranche: Enhanced loan up to ₹20,000 on timely repayment of 1st loan",
+        "3rd Tranche: Substantial loan up to ₹50,000 on successful repayment of 2nd loan",
+        "7% interest subsidy directly credited into bank account quarterly on timely repayment",
+        "Cashback incentives up to ₹1,200 per year for adopting digital UPI payments"
+      ],
+      "documents": [
+        "Aadhaar Card",
+        "Certificate of Vending / ULB Identity Card / Letter of Recommendation (LoR)",
+        "Bank Account details",
+        "Aadhaar-linked Mobile Number"
+      ],
+      "how_to_apply": "Apply online at https://pmsvanidhi.mohua.gov.in or via the PM SVANidhi mobile app, or visit your nearest Common Service Centre (CSC) or local bank branch.",
+      "url": "https://pmsvanidhi.mohua.gov.in",
+      "helpline": "1800 11 1979"
+    },
+    "hi": {
+      "name": "पीएम स्वनिधि (स्ट्रीट वेंडर्स आत्मनिर्भर निधि)",
+      "what_is_it": "शहरी और कस्बाई क्षेत्रों के रेहड़ी-पटरी विक्रेताओं, ठेलेवालों और फेरीवालों को अपना व्यवसाय चलाने के लिए ₹50,000 तक का सस्ता, बिना गारंटी का कार्यशील पूंजी ऋण देने की योजना।",
+      "ministry": "आवासन और शहरी कार्य मंत्रालय",
+      "who_can_benefit": "शहरी व अर्ध-शहरी क्षेत्रों में वेंडिंग करने वाले रेहड़ी, पटरी, ठेलेवाले और छोटे दुकानदार।",
+      "conditions": "नगर निकाय (ULB) द्वारा जारी वेंडिंग प्रमाण पत्र या पहचान पत्र, अथवा वेंडिंग समिति से अनुशंसा पत्र (LoR) होना आवश्यक है।",
+      "benefits": [
+        "पहली किस्त: ₹10,000 तक का बिना किसी गारंटी का लोन (1 वर्ष की अवधि)",
+        "दूसरी किस्त: समय पर भुगतान करने पर ₹20,000 तक का बढ़ा हुआ लोन",
+        "तीसरी किस्त: ₹50,000 तक का बड़ा कार्यशील पूंजी लोन",
+        "समय पर भुगतान करने पर 7% की ब्याज सब्सिडी सीधे बैंक खाते में",
+        "डिजिटल यूपीआई लेनदेन पर प्रति वर्ष ₹1,200 तक का कैशबैक प्रोत्साहन"
+      ],
+      "documents": [
+        "आधार कार्ड",
+        "वेंडिंग प्रमाण पत्र / नगर निगम आईडी कार्ड / सिफारिश पत्र (LoR)",
+        "बैंक खाता विवरण",
+        "आधार लिंक मोबाइल नंबर"
+      ],
+      "how_to_apply": "वेबसाइट https://pmsvanidhi.mohua.gov.in पर ऑनलाइन आवेदन करें या अपने नजदीकी सीएससी (CSC) अथवा बैंक शाखा में जाएं।",
+      "url": "https://pmsvanidhi.mohua.gov.in",
+      "helpline": "1800 11 1979"
+    },
+    "hinglish": {
+      "name": "PM SVANidhi (Street Vendor's AtmaNirbhar Nidhi)",
+      "what_is_it": "Street vendors, thela-walas aur hawkers ke liye working capital loan scheme hai jisme bina guarantee ke ₹50,000 tak ka loan 7% interest subsidy ke sath milta hai.",
+      "ministry": "Ministry of Housing and Urban Affairs",
+      "who_can_benefit": "Cities aur towns me thela, rehri, patri lagane wale small vendors.",
+      "conditions": "Municipality / ULB dwara issued Vending Certificate ya ID card ya Town Vending Committee ka recommendation letter hona chahiye.",
+      "benefits": [
+        "1st Loan: ₹10,000 tak ka working capital loan bina collateral ke",
+        "2nd Loan: Timely repayment par ₹20,000 tak ka loan",
+        "3rd Loan: ₹50,000 tak ka loan business scale karne ke liye",
+        "Timely payment par 7% interest subsidy directly bank account me",
+        "Digital UPI payment use karne par saal me ₹1,200 tak ka cashback"
+      ],
+      "documents": [
+        "Aadhaar Card",
+        "Vending ID Card / Nagar Nigam Certificate / LoR",
+        "Bank Account details",
+        "Aadhaar linked Mobile Number"
+      ],
+      "how_to_apply": "Online portal https://pmsvanidhi.mohua.gov.in par apply karein ya nearest CSC center par form submit karein.",
+      "url": "https://pmsvanidhi.mohua.gov.in",
+      "helpline": "1800 11 1979"
+    },
+    "bn": {
+      "name": "প্রধানমন্ত্রী স্বনিধি (স্ট্রিট ভেন্ডরস আত্মনির্ভর নিধি)",
+      "what_is_it": "শহরাঞ্চলের রাস্তার হকার, ঠেলাওয়ালা ও ক্ষুদ্র ব্যবসায়ীদের ব্যবসা পুনরায় চালু ও সম্প্রসারণের জন্য ৭% সুদে জামানতমুক্ত ₹৫০,০০০ পর্যন্ত ওয়ার্কিং ক্যাপিটাল ঋণ প্রদানের প্রকল্প।",
+      "ministry": "আবাসন ও নগর বিষয়ক মন্ত্রণালয়",
+      "who_can_benefit": "পৌরসভা ও শহর অঞ্চলের রাস্তার বিক্রেতা, ফেরিওয়ালা, ফুটপাতের দোকানদার ও ঠেলাচালকেরা।",
+      "conditions": "পৌরসভা বা নগর নিগম (ULB) কর্তৃক প্রদত্ত ভেন্ডিং সার্টিফিকেট / পরিচয়পত্র অথবা সুপারিশপত্র (LoR) থাকতে হবে।",
+      "benefits": [
+        "১ম পর্যায়: ₹১০,০০০ পর্যন্ত বন্ধকমুক্ত ওয়ার্কিং ক্যাপিটাল ঋণ (১ বছরের মেয়াদ)",
+        "২য় পর্যায়: ১ম ঋণ সময়মতো পরিশোধে ₹২০,০০০ পর্যন্ত বর্ধিত ঋণ",
+        "৩য় পর্যায়: ২য় ঋণ সফলভাবে পরিশোধে ₹৫০,০০০ পর্যন্ত বড় ঋণ সুবিধা",
+        "নিয়মিত কিস্তি পরিশোধে বার্ষিক ৭% হারে সরাসরি ব্যাংক অ্যাকাউন্টে সুদ ভর্তুকি",
+        "ডিজিটাল ইউপিআই লেনদেন গ্রহণের জন্য বছরে ₹১,২০০ পর্যন্ত ক্যাশব্যাক সুবিধা"
+      ],
+      "documents": [
+        "আধার কার্ড",
+        "পৌরসভার ভেন্ডিং পরিচয়পত্র / সার্টিফিকেট / সুপারিশপত্র (LoR)",
+        "ব্যাংক অ্যাকাউন্টের বিবরণ",
+        "আধারের সাথে যুক্ত মোবাইল নম্বর"
+      ],
+      "how_to_apply": "অনলাইনে https://pmsvanidhi.mohua.gov.in পোর্টালে আবেদন করুন অথবা স্থানীয় কমন সার্ভিস সেন্টার (CSC) বা ব্যাংকের শাখায় গিয়ে ফর্ম পূরণ করুন।",
+      "url": "https://pmsvanidhi.mohua.gov.in",
+      "helpline": "1800 11 1979"
+    }
+  }
+}
