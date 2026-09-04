@@ -3,14 +3,14 @@
  * Centralized API integration module for the frontend.
  */
 
-const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const API_BASE = import.meta.env.VITE_API_URL || "https://yojanasetu-9yfn.onrender.com";
 
 export async function fetchSchemes(category = "All", search = "") {
   try {
     const params = new URLSearchParams();
     if (category && category !== "All") params.append("category", category);
     if (search && search.trim()) params.append("search", search.trim());
-    
+
     const res = await fetch(`${API_BASE}/api/schemes?${params.toString()}`);
     if (!res.ok) throw new Error(`HTTP error ${res.status}`);
     const data = await res.json();
