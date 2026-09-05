@@ -74,3 +74,6 @@ npm run dev
 3. **Instant "Am I Eligible?" Wizard**:
    - Go to the **Am I Eligible?** tab, select *Age 28, Female, Artisan/Craftsperson, Annual Income ₹1,50,000*.
    - Shows: Automatic matching with PM Vishwakarma (₹15,000 toolkit voucher + 5% loan) and Ayushman Bharat with clear justification.
+
+## Disclaimer 
+Open website using your own internet . Might face some issue if accessed via college's wifi .
