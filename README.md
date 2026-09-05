@@ -50,8 +50,8 @@ cd backend
 python -m pip install -r requirements.txt
 python main.py
 ```
-- API will run at: ``
-- Interactive Swagger Documentation: ``
+- API will run at: `https://yojanasetu-9yfn.onrender.com`
+- Interactive Swagger Documentation: `https://yojanasetu-9yfn.onrender.com/docs`
 
 ### 2. Start the Frontend Application (React + Vite)
 ```bash
